@@ -18,7 +18,7 @@ Welcome to my personal Haskell learning repository! This project is designed to 
 
 - [x] Hello World program
 - [x] Basic data types (Int, Float, Double, Bool, Char, Function)
-- [ ] Lists and tuples
+- [x] Lists and tuples
 - [ ] Basic functions and function syntax
 - [ ] If-then-else expressions
 - [ ] Guards
