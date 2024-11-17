@@ -27,12 +27,12 @@ Welcome to my personal Haskell learning repository! This project is designed to 
 
 ### 2. Types and Typeclasses
 
-- [ ] Type declarations
-- [ ] Type variables
+- [x] Type declarations
+- [x] Type variables
 - [ ] Typeclasses (Eq, Ord, Show, Read)
 - [ ] Defining custom types
 - [ ] Algebraic data types
-- [ ] Record syntax
+- [x] Record syntax
 
 ### 3. Functions and Pattern Matching
 
